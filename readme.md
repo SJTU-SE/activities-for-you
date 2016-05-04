@@ -48,7 +48,7 @@ Website: [ImagineCup](https://www.imaginecup.com/)
 
 Website: [SJTU *NIX User Group](http://sjtug.org/)
 
-交大的*NIX User Group，不了解，但我们学院有人在吧，请补充~
+交大的*NIX User Group，目前维护了一个[软件源](https://mirrors.sjtug.org)。基本上每几周都会有形式多样的分享（吃锅）活动，包括了应用、学术知识等杂七杂八的内容。最近的分享内容可以参见：https://github.com/sjtug/sharing/wiki 。加入方式见http://sjtug.org/contacts/ 。
 
 ### 东岳
 
