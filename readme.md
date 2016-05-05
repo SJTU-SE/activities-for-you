@@ -52,6 +52,21 @@ Website: [SJTU *NIX User Group](http://sjtug.org/)
 
 ### 东岳
 
-Website: [东岳](http://dongyueweb.com/)
+Website: [东岳网络工作室](http://dongyueweb.com/) 
 
-同去网是他们在维护的，平时会接外包。
+- 分享
+  - [Web 入门系列讲座](https://github.com/dyweb/course), 每周线下讲座.
+  - [Web 组周报](https://github.com/dyweb/web-stuff), 各类 trending 技术每周合辑 (不限 Web). 可直接评论投稿, 订阅请召唤 [@arrowrowe](https://github.com/arrowrowe).
+- 分工
+  - Web 组: 维护 & 重构已有项目; GitHub 挖坑; 外包(按劳分成).
+  - 设计组: Web 和移动端设计; 部分学校设计项目.
+  - Android 组: 同去网客户端; [Gitlab 客户端](https://github.com/dyweb/gitlab-android); 等等.
+  - iOS 组: 同去网客户端; [Gitlab 客户端](https://github.com/dyweb/gitlab-iOS); 等等.
+- 长期维护项目
+  - [同去网](http://tongqu.me/): 目前正在大规模重构 (写), 欢迎下列技术的爱好者: RESTful API, MicroService, PHP, TypeScript, SASS, AngularJS 2, Slim, Bootstrap, ......
+  - [爱心屋](http://aixinwu.sjtu.edu.cn/).
+  - [军训网](http://junxun.sjtu.edu.cn/).
+  - 其他一些学院或部门网站.
+- 开源项目: 参见 [@dyweb](https://github.com/dyweb/) 及成员 ([@at15](https://github.com/at15) / [@arrowrowe](https://github.com/arrowrowe) / ...) 名下仓库.
+- 历史项目: [交大选课插件 Electsys++](https://github.com/laohyx/electsys) 等.
+- 联系方式: join@dongyue.io.
