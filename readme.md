@@ -52,6 +52,34 @@ Website: [SJTU *NIX User Group](http://sjtug.org/)
 
 ### 东岳
 
-Website: [东岳](http://dongyueweb.com/)
+Website: [东岳网络工作室](http://dongyueweb.com/) 
 
-同去网是他们在维护的，平时会接外包。
+分享:
+
+- [技术讲座](https://github.com/dyweb/course) Web开发相关技术, 每周一逸夫楼100线下讲座
+- [Web组周报](https://github.com/dyweb/web-stuff) Trending的技术（不限于Web)，投稿可直接评论，订阅请 @arrowrowe
+
+组织结构:
+
+- Web组: 维护 & 重构已有项目 + GitHub 挖坑 + 外包(按劳分成) 
+- 设计组: Web 和移动端设计 + 部分学校设计项目 + 赞爆的学姐(~~的设计~~)
+- Android: 同去网客户端 + [Gitlab 客户端](https://github.com/dyweb/gitlab-android)
+- iOS：同去网客户端 + [Gitlab 客户端](https://github.com/dyweb/gitlab-iOS)
+
+主要项目:
+
+- 同去网: 目前正在大规模重构(写), 欢迎喜欢以下技术的人，REST API, MicroService, PHP, Typescript, Sass, AngularJs2, Slim, Bootstrap
+- 爱心屋: 有一个呆萌的学弟在专职维护，曾经由一群老司机开发(~~bug那个多啊~~)
+- 军训网: 虽然存在感低，但是它每年都在改版(~~css~~)
+- 各类学校网站: 学院主页，部门主页 etc
+
+开源项目:
+
+- 选课插件: https://github.com/laohyx/electsys 
+- Tam: https://github.com/arrowrowe/tam
+- 一系列PHP库: https://github.com/dyweb 
+
+联系方式:
+
+- join@dongyue.io
+- 已经在东岳的学长/学弟
