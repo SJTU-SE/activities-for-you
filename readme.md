@@ -52,25 +52,19 @@ Website: [SJTU *NIX User Group](http://sjtug.org/)
 
 ### 东岳
 
-Website: [东岳](http://dongyueweb.com/) 我们在努力写新版啦(~~跳票2年~~)
+Website: [东岳网络工作室](http://dongyueweb.com/) 
 
 分享:
 
-- [技术讲座](https://github.com/dyweb/course) Web开发相关技术，服务器端以PHP为主, 每周一逸夫楼100
-- [Web组周报](https://github.com/dyweb/web-stuff) Trending的技术和一些奇奇怪怪的东西，投稿可直接评论，订阅请 @arrowrowe
-- [Android组周报](https://github.com/dyweb/android-stuff) 组长忙于舰娘，无限期停更, 欢迎应聘组长
-- [iOS组周报](https://github.com/dyweb/ios-stuff) 组长已经感受不到写代码的乐趣，开始思考人生，无限期停更, 欢迎女同学加入以重燃组长的热情, 或许男同学也可以有奇效
+- [技术讲座](https://github.com/dyweb/course) Web开发相关技术, 每周一逸夫楼100线下讲座
+- [Web组周报](https://github.com/dyweb/web-stuff) Trending的技术（不限于Web)，投稿可直接评论，订阅请 @arrowrowe
 
 组织结构:
 
 - Web组: 维护 & 重构已有项目 + GitHub 挖坑 + 外包(按劳分成) 
-- 设计组: Web 和移动端设计， 学姐很多
+- 设计组: Web 和移动端设计 + 部分学校设计项目 + 赞爆的学姐(~~的设计~~)
 - Android: 同去网客户端 + [Gitlab 客户端](https://github.com/dyweb/gitlab-android)
 - iOS：同去网客户端 + [Gitlab 客户端](https://github.com/dyweb/gitlab-iOS)
-- 游戏组: XBOX + DOTA2 + STEAM 只买不玩 计划提供Windows服务器
-- 刷课/题组: MIT6.824 + leetcode
-- 司机组：活跃于tg和wechat的绅士们
-- CV组: 专注配音30年~~原来大家都是变态~~
 
 主要项目:
 
@@ -79,13 +73,11 @@ Website: [东岳](http://dongyueweb.com/) 我们在努力写新版啦(~~跳票2�
 - 军训网: 虽然存在感低，但是它每年都在改版(~~css~~)
 - 各类学校网站: 学院主页，部门主页 etc
 
-不再维护的项目:
+开源项目:
 
-- 选课插件: follow @laohyx 有源码
-
-福利:
-
-- 我们想的是同一个福利么?
+- 选课插件: https://github.com/laohyx/electsys 
+- Tam: https://github.com/arrowrowe/tam
+- 一系列PHP库: https://github.com/dyweb 
 
 联系方式:
 
