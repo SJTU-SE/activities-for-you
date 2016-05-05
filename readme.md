@@ -68,4 +68,5 @@ Website: [东岳网络工作室](http://dongyueweb.com/)
   - [军训网](http://junxun.sjtu.edu.cn/).
   - 其他一些学院或部门网站.
 - 开源项目: 参见 [@dyweb](https://github.com/dyweb/) 及成员 ([@at15](https://github.com/at15) / [@arrowrowe](https://github.com/arrowrowe) / ...) 名下仓库.
+- 历史项目: [交大选课插件 Electsys++](https://github.com/laohyx/electsys) 等.
 - 联系方式: join@dongyue.io.
