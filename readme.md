@@ -14,7 +14,7 @@ Website: [HackShanghai](http://www.hackshanghai.com/)
 
 Website: [GSoC](https://developers.google.com/open-source/gsoc/)
 
-谷歌组织的，在暑假为开源项目贡献代码的活动，很难申请到，但有5000刀的奖励。
+谷歌组织的，在暑假为开源项目贡献代码的活动，很难申请到，但有3600刀的奖励。
 
 ## 比赛
 
