@@ -10,11 +10,11 @@ Website: [HackShanghai](http://www.hackshanghai.com/)
 
 上海地区最大的学生黑客马拉松，同性交友好去处。大概每年的11月份进行，要提前申请，申请不难。
 
-### GSoC
+### Google Summer of Code
 
-Website: [GSoC](https://developers.google.com/open-source/gsoc/)
+Website: [Google Summer of Code](https://developers.google.com/open-source/gsoc/)
 
-谷歌组织的，在暑假为开源项目贡献代码的活动，很难申请到，但有3600刀的奖励。
+谷歌组织的，在暑假为开源项目贡献代码的活动，很难申请到，但有3600刀的奖励。申请可以参考 [gsoc-cn/gsoc-cn](https://github.com/gsoc-cn/gsoc-cn)。
 
 ## 比赛
 
