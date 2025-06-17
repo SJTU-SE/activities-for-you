@@ -54,7 +54,7 @@ Website: [SJTU *NIX User Group](http://sjtug.org/)
 
 ### 东岳
 
-Website: [东岳网络工作室](http://dongyueweb.com/)**20250617注：本链接似乎已失效**
+Website: [东岳网络工作室](https://dyweb.org/)
 
 - 分享
   - [Web 入门系列讲座](https://github.com/dyweb/course), 每周线下讲座.
