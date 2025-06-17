@@ -18,9 +18,11 @@ Website: [Google Summer of Code](https://developers.google.com/open-source/gsoc/
 
 ## 比赛
 
-### Google Code Jam
+### ~~Google Code Jam~~
 
-Website: [CodeJam](https://code.google.com/codejam)
+~~Website: [CodeJam](https://code.google.com/codejam)~~
+
+该比赛已终止，最后一届于2023年举办，详情请见[这里](https://developers.googleblog.com/zh-hans/celebrate-googles-coding-competitions-with-a-final-round-of-programming-fun/)
 
 不是很懂你们算法触，有感兴趣的自己修改这里吧
 
@@ -52,7 +54,7 @@ Website: [SJTU *NIX User Group](http://sjtug.org/)
 
 ### 东岳
 
-Website: [东岳网络工作室](http://dongyueweb.com/) 
+Website: [东岳网络工作室](http://dongyueweb.com/)**20250617注：本链接似乎已失效**
 
 - 分享
   - [Web 入门系列讲座](https://github.com/dyweb/course), 每周线下讲座.
